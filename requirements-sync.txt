@@ -1,5 +1,6 @@
-# common requirements
+  common requirements
 -r requirements.txt
 
-# sync web framework
+* sync web framework
 Flask==3.0.0
+ 
